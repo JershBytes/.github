@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12.x
       - name: Adding License
-        uses: dephraiim/license-action@v1
+        uses: ephraimduncan/license-action@v1
         with:
           LICENSE_TYPE: MIT
           AUTHOR: Joshua Ross
