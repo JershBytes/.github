@@ -17,7 +17,7 @@ jobs:
       - name: Generate License
         uses: yi-Xu-0100/license-generator@v0.1.0
         with:
-          path: LICENSE .
+          path: /
           type: MIT
           year: 2024
           author: Joshua Ross
