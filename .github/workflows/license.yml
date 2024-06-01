@@ -20,4 +20,4 @@ jobs:
         with:
           LICENSE_TYPE: MIT
           AUTHOR: Joshua Ross
-          PROJECT_NAME: false
+          
