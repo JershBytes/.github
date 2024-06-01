@@ -1,5 +1,8 @@
 name: licenseGenerator
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '1 1 1 * *'
 
