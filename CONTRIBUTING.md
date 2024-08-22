@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Contributing to .github
+# Contributing a PR 🥇
 
 First off, thanks for taking the time to contribute! ❤️
 
