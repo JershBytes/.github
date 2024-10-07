@@ -1,7 +1,3 @@
-
-# editorconfig:  https://editorconfig.org/
-# actual source: https://github.com/lrstanley/.github/blob/master/terraform/github-common-files/templates/.editorconfig
-
 root = true
 
 [*]
